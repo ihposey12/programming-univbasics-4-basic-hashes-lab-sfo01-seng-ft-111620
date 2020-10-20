@@ -4,7 +4,7 @@ end
 
 def my_hash
   new_hash = {
-    :Grateful Dead => 'Rock'
+    :milk => 3.09
   }
 end
 
